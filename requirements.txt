@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gunicorn
+requests
+pydantic
+python-dotenv
+apscheduler
+robinhood-api
+loguru
